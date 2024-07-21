@@ -1,5 +1,5 @@
 # BL-HiChIP
-## This pipeline has been deprecated as of August 2021. Please update your pipelines to the official nextflow pipeline at https://github.com/wbszhu/DRP.
+## This pipeline has been deprecated as of August 2021. Please update your pipelines to the official nextflow pipeline at https://github.com/wbszhu/HiTag.
 > We recommend transitioning to the nextflow version since it easier to install.
 ## Usage
 ### for example
